@@ -81,14 +81,25 @@ Built with a scalable architecture using React, Next.js, NestJS, PostgreSQL, and
 
 ## 🚀 Getting Started
 
+### Clone the repository
+
 ```bash
-git clone https://github.com/mmbytetech/enterprise-operations-platform.git
+git clone https://github.com/mmbytetech/commerce-operations-platform.git
+cd commerce-operations-platform
+```
 
-cd enterprise-operations-platform
+### Install dependencies
 
+```bash
 npm install
+```
 
+### Configure environment
+
+```bash
 cp .env.example .env
+```
+
 
 npm run dev
 ```
