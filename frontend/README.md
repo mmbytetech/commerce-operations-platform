@@ -1,34 +1,70 @@
-# Sand Business Management System
+# 🏢 Commerce Operations Platform
 
-Complete Next.js 14 application with bilingual support (English/Bengali).
+Modern enterprise platform for managing business operations, customer relationships, inventory, sales, purchasing, and analytics.
 
-## Features
-- 10 fully functional pages
-- Modern glass morphism design  
-- Responsive mobile-first layout
-- Interactive charts and analytics
-- Print functionality for invoices
-- Zustand state management
-- Mock data included
+Built with **Next.js**, **NestJS**, **TypeScript**, **PostgreSQL**, and a scalable, cloud-ready architecture.
 
-## Quick Start
+---
+
+## ✨ Features
+
+- Enterprise Operations Dashboard
+- Customer & Supplier Management
+- Inventory & Product Management
+- Sales & Purchase Workflows
+- Financial Overview & Reporting
+- Invoice Management
+- Authentication & Role-Based Access Control
+- Responsive Dashboard
+- REST API Integration
+- Dark & Light Theme Support
+
+---
+
+## 🚀 Quick Start
+
 ```bash
 npm install
 npm run dev
 ```
 
-Visit http://localhost:3000/en (English) or http://localhost:3000/bn (Bengali)
+Open your browser:
 
-## Pages Implemented
-✅ Dashboard - Statistics and charts
-✅ Products - Grid with filters  
-✅ Customers - Management interface
-✅ Orders - Status tracking
-✅ Invoices - Print functionality
-✅ Delivery - Truck management
-✅ Accounts - Financial analytics
-✅ Oil Business - Sales module
-✅ Reports - Analytics dashboard
-✅ Settings - Configuration
+```
+http://localhost:3000
+```
 
-All features are fully functional with professional design and bilingual support.
+---
+
+## 📦 Modules
+
+- 📊 Dashboard & Analytics
+- 📦 Products & Inventory
+- 👥 Customer Management
+- 🛒 Sales & Orders
+- 🧾 Invoice Management
+- 🚚 Supplier & Procurement
+- 💰 Financial Overview
+- 📈 Reports & Insights
+- ⚙️ Organization Settings
+- 🔐 User & Role Management
+
+---
+
+## 🛠 Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- NestJS
+- PostgreSQL
+- Prisma ORM
+- Tailwind CSS
+- Docker
+- JWT Authentication
+
+---
+
+## 📄 License
+
+Released under the MIT License.
